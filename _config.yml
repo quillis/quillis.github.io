@@ -23,7 +23,7 @@ repository               : "quillis/quillis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic1.jpg"
   name             : "Irina Shklovski"
   pronouns         : # example: "she/her"  
   bio              : "I am a professor of Communication and Computing in the Department of Computer Science at the University of Copenhagen. I also hold a WASP-HS visiting professorship in the Department of Thematic Studies, Gender Studies at Linköping University. Mainly I am interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data and AI ethics more generally."
