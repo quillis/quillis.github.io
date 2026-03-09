@@ -9,6 +9,5 @@ redirect_from:
 Hi! Thanks for stopping by. This site is only marginally and unevenly updated. If you want the most up-to-date list of my publications please check out my google scholar page. I keep the available projects page reasonably updated (at least once a year) so if you are a student looking for a project, do check there if you want to work with me. 
 
 
-
-Mainly I am interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data and AI ethics more generally.
+I have a lot of research interests. I am mainly interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data, and AI ethics more generally. Most of this is in the "serious" category, but once in a while I revisit some aspects of the ridiculous.software project with Miguel Sicart and Christina Neumayer. It is important to have a good laugh now and then despite the general impending feeling of doom from all quarters. 
 
