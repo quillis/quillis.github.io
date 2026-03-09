@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Miswritings: thinking out loud"
 title_separator          : "-"
 name                     : &name "Irina Shklovski"
-description              : &description "I am a professor of Communication and Computing in the Department of Computer Science at the University of Copenhagen. I also hold a WASP-HS visiting professorship in the Department of Thematic Studies, Gender Studies at Linköping University."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Just another academic"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://quillis.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Mainly I am interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data and AI ethics more generally."
+  bio              : "I am a professor of Communication and Computing in the Department of Computer Science at the University of Copenhagen. I also hold a WASP-HS visiting professorship in the Department of Thematic Studies, Gender Studies at Linköping University. Mainly I am interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data and AI ethics more generally."
   location         : "Denmark"
   employer         : "University of Copenhagen"
   uri              : # URL
