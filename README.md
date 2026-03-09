@@ -1,6 +1,8 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+Mainly I am interested in all things creepy and weird at the intersection of technology and society. Currently I am doing projects on data quality, explainability, synthetic data and AI ethics more generally.
+
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
 # Getting Started
